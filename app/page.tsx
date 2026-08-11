@@ -38,6 +38,7 @@ export default function Page() {
             width={1000}
             height={760}
             alt="Screenshots of the dashboard project showing desktop version"
+            loading="eager"
           />
           <Image
             src="/hero-mobile.png"
